@@ -14,13 +14,10 @@ you can walk in and address all of them at once. One channel becomes the
 fleet's live conference room, backed by an append-only disk log so the
 conversation survives restarts.
 
-**[Sourcelens](https://github.com/Phyzx72/sourcelens)** · `Python`
+**[Sourcelens](https://github.com/Phyzx72/sourcelens)** · `Python` · MIT
 Token-efficient local code retrieval. Index a codebase once with tree-sitter,
 then query exact symbols instead of re-reading files. Built to stop agents
 from burning context on files they've already seen.
-
-**[Mergify security sandbox](https://github.com/Phyzx72/mergify-security-sandbox)**
-An isolated environment for exercising security tooling.
 
 ## On the forks
 
